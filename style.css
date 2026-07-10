@@ -6,11 +6,29 @@
   .center-div ul li a{text-decoration:none}
  button{background-color:blue;color:aliceblue;
 padding: 10px 15px;border-radius:5px;}
-.logo{width:20px;}
+.logo-aria{display:flex;align-items:center;gap: 10px;}
+.logo{width:80px;
+height:auto;}
+.logo-aria span{font-weight:bold;}
 /*nav end*
 /*hero section start*/
 
-
+.hero{height:90vh;
+background-image:url(assets/banner.jpg);
+background-size:cover;
+background-position: center;
+background-repeat: no-repeat;
+display: flex;
+justify-content: center;
+align-items: center;
+text-align: center;
+color:aliceblue;
+}
+.hero-container .h1{font-size:70px;
+font-weight: bold;}
+.btn-register{margin-top: 300px;
+padding: 20px; border-radius: 10px;
+}
 
 
   
