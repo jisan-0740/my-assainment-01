@@ -46,8 +46,79 @@ padding: 20px; border-radius: 10px;
     gap: 20px;
 
     }
+/*end*/
+
+/*  Pricing Section Styles*/
+.pricing-section{
+    max-width:1200px;
+    margin:60px auto;
+    padding: 0 20px;
+}
+
+  .pricing-section{
+    text-align:center;
+    margin-bottom: 50px;
+  } 
+.pricing-header h2{font-size: 40px;
+font-weight:bold;
+margin-bottom: 10px;}
+.pricing-headr p{font-size:16px;}
+
+.pricing-container {
+    display: flex !important;
+    justify-content:center;
+    gap: 25px;
+}
 
 
+
+.price-card {
+    width: 300px;
+    padding: 30px 20px;
+    border: 1px solid #ddd;
+    border-radius: 12px;
+    text-align: left;
+}
+
+
+.pro-card {
+    background-color: black;
+    border-color: black;
+}
+
+.pro-card h3, .pro-card p, .pro-card ul li, .pro-card span {
+    color: white;
+}
+ .pro-card{
+    background-color:black;border-color:block;
+ }
+ .pro-card h3, .pro-card p, .pro-card- ul li, .pro-card-span{color:white}
+
+
+
+.price-card button {
+    width: 100%;
+    padding: 10px 12px;
+    border-radius: 6px;
+    font-size: 14px;
+    font-weight: bold;
+    cursor: pointer;
+    margin-top: 15px;}
   
+       
 
 
+.btn-standard, .btn-team {
+    background-color: transparent; 
+    border: 1px solid black;              
+    color: black;         }      
+
+
+.btn-pro {
+    background-color: #2563eb;           
+    color: white;                          
+    border: none;                          
+}
+
+    
+ 
