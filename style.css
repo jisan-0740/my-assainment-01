@@ -10,7 +10,7 @@ padding: 10px 15px;border-radius:5px;}
 .logo{width:80px;
 height:auto;}
 .logo-aria span{font-weight:bold;}
-/*nav end*
+/*nav end*/
 /*hero section start*/
 
 .hero{height:90vh;
@@ -24,7 +24,7 @@ align-items: center;
 text-align: center;
 color:aliceblue;
 }
-.hero-container .h1{font-size:70px;
+.hero-container  h1{font-size:100px;
 font-weight: bold;}
 .btn-register{margin-top: 300px;
 padding: 20px; border-radius: 10px;
