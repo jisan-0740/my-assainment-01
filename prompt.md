@@ -1,1 +1,1 @@
-Give me a simple FAQ section for a developer conference website using HTML and add some basic CSS styling.
+Create a unique and visually appealing "Hackathon Highlights" section for a developer conference website (DevConf 2026) using HTML and CSS. The section should include event details, features, timeline, and a call-to-action button. Keep the design modern and consistent with a tech conference theme.
